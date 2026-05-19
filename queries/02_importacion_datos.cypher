@@ -1,4 +1,4 @@
-LLOAD CSV WITH HEADERS FROM
+LOAD CSV WITH HEADERS FROM
 'https://raw.githubusercontent.com/clasesfestrada/comandos-neo4j-mgonzalezhernandez324-a11y/refs/heads/main/data/estudiantes.csv'
 AS row
 
